@@ -14,3 +14,6 @@ Untuk menjalankan program ini, dapat dilakukan Setup Environment - Terminal :
 cd Dashboard
 pip install -r requirements.txt
 streamlit run Dashboard.py
+
+
+link url yang telah di deploy : https://dashboard-bike-sharing-dataset-npborgvqz4mgymuzznfeby.streamlit.app/
