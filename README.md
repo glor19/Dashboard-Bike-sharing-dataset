@@ -7,7 +7,7 @@ Proyek Analisis Data: Bike-sharing-dataset
 - ID Dicoding: gloria_laura_21Qg
 
 
-Ini merupakan proyek untuk menyelesaikan course Dicoding "Belajar Analisis Data dengan Python".
+Ini merupakan project yang dibuat untuk menyelesaikan course Dicoding "Belajar Analisis Data dengan Python".
 
 Untuk menjalankan program ini, dapat dilakukan Setup Environment - Terminal :
 
